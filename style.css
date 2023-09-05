@@ -1,5 +1,7 @@
 p {color:blue;} 
 nav {
   background-color:green;
-  margin: 20px;
+  padding:20px;
+  margin: 0px;
+  margin-bottom:20px;
 }
