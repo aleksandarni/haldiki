@@ -5,3 +5,6 @@ nav {
   margin: 0px;
   margin-bottom:20px;
 }
+nav a img {
+  width: 50px;
+}
